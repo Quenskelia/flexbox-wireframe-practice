@@ -32,7 +32,7 @@
     justify-content: center;
     width: 90%;
     max-width: 800px;
-    background-color: rgb(0, 255, 34);
+    background-color: rgb(0, 226, 30);
     box-sizing: border-box;
     border-radius: 1rem;
     padding : 20px;
@@ -110,4 +110,3 @@
     max-width: 800px;
 }
 
-}
